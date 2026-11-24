@@ -1,60 +1,48 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+# Salut, moi c'est Nolhan 👋
 
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nolhan-robelin-82432a44a/)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Nolhan-robelin.Nolhan-robelin)
 
-<div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/in/nolhan-robelin-82432a44a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+---
 
-###
+## 👩‍💻 À propos de moi
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=Nolhan-robelin.Nolhan-robelin&"  />
-</div>
+Étudiant en développement basé en France 🇫🇷 :
 
-###
+- 📚 En formation à **Coda** à **Dijon**
+- 🔭 Je progresse chaque jour sur mes compétences en programmation et en algorithmie
+- 🌱 J'explore aussi bien le développement bas niveau (**C**), l'orienté objet (**Java**), le scripting (**Python**) que le web et la conteneurisation (**Docker**)
+- 🚶‍♂️ En dehors du code, j'aime aller marcher pour me ressourcer
 
-<h1 data-importer="text" align="center">Welcome there 👋</h1>
+---
 
-###
+## 🛠 Langages & Outils
 
-<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+### Langages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-###
+### Outils & Environnement
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<p data-importer="text" align="left">I'm Nolhan from France 🥖<br><br>- 🔭 I’m working on improoving my coding skills<br>- 📚 I'm currently learning at Coda in Dijon !<br>- ⚡ In my free time I love to go walk</p>
+---
 
-###
+## 📌 Projets mis en avant
 
-<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+- **[Projet-C-SVG](https://github.com/Nolhan-robelin/Projet-C-SVG)** — Premier projet en **C** permettant de créer des formes, d'afficher celles déjà créées et de les modifier.
+- **[Mini-projet](https://github.com/Nolhan-robelin/Mini-projet)** — Projet d'entraînement et d'expérimentation (HTML/CSS).
 
-###
+---
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-</div>
+## 🔥 Statistiques GitHub
 
-###
-
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Nolhan-robelin&locale=fr&mode=daily&theme=dark&hide_border=false&border_radius=5" alt="GitHub Streak" />
+</p>
 
 ###
 
