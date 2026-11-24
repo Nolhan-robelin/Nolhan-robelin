@@ -13,7 +13,7 @@
   "name": "Nolhan Robelin",
   "role": "Étudiant en Bachelor 1 Informatique",
   "school": "Coda — Dijon, France",
-  "focus": ["Bas niveau (C)", "POO (Java)", "Scripting (Python)", "Conteneurisation (Docker)"],
+  "focus": ["Bas niveau (C)", "POO (Java)", "Scripting (Python)"],
   "afk": "Marche en extérieur pour déconnecter du terminal"
 }
 ```
